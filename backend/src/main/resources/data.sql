@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria'  , '010.123.456-70', 1200.0, TIMESTAMP WITH TIME ZONE '2000-01-10T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Eduarda', '010.123.456-71', 1000.0, TIMESTAMP WITH TIME ZONE '2000-03-11T20:50:07.12345Z', 9);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Amelia' , '010.123.456-72', 1900.0, TIMESTAMP WITH TIME ZONE '2000-02-12T20:50:07.12345Z', 7);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alice'  , '010.123.456-73', 1700.0, TIMESTAMP WITH TIME ZONE '2000-05-13T20:50:07.12345Z', 8);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fatima' , '010.123.456-74', 1800.0, TIMESTAMP WITH TIME ZONE '2000-04-14T20:50:07.12345Z', 6);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Arlete' , '010.123.456-75', 1500.0, TIMESTAMP WITH TIME ZONE '2000-09-15T20:50:07.12345Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Irene'  , '010.123.456-76', 1600.0, TIMESTAMP WITH TIME ZONE '2000-07-16T20:50:07.12345Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Erika'  , '010.123.456-77', 1100.0, TIMESTAMP WITH TIME ZONE '2000-08-17T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Giseli' , '010.123.456-78', 1300.0, TIMESTAMP WITH TIME ZONE '2000-10-18T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Vilma'  , '010.123.456-79', 1400.0, TIMESTAMP WITH TIME ZONE '2000-11-19T20:50:07.12345Z', 2);
